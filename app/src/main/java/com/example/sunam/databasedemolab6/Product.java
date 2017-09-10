@@ -4,6 +4,7 @@ package com.example.sunam.databasedemolab6;
  * Created by Sunam on 9/6/2017.
  */
 
+
 public class Product {
     private int _id;
     private String _productname;
