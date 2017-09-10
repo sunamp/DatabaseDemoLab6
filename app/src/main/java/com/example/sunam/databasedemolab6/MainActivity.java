@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         productBox = (EditText) findViewById(R.id.productName);
         quantityBox =
                 (EditText) findViewById(R.id.productQuantity);
+        //added comments
     }
 
     public void newProduct (View view) {
